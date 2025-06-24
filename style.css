@@ -64,7 +64,10 @@
 
 }
 .all {
-    border: 3px solid ;
+    border: 3px solid ; padding-bottom: 10px;
     border-color: rgb(46, 5, 58);
     
+}
+.space {
+    padding-top: 30px;
 }
