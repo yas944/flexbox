@@ -1,0 +1,70 @@
+* {
+    padding: 0%;
+    margin: 0%;
+}
+.titre {
+    background-color: rgb(179, 38, 186);
+    color: aliceblue;
+    padding: 10px;
+    border: 3px solid ;
+    border-color: rgb(46, 5, 58);
+    
+}
+
+.par1 {
+    background-color: aqua;
+    padding: 10px;
+    margin-right: 30px;
+    margin-top: 10px;
+
+}
+
+.par2 {
+    background-color: aqua;
+    padding: 10px;
+    margin-right: 30px;
+    margin-left: 0%;
+    margin-top: 10px;
+}
+
+.par3 {
+    background-color: aqua;
+    padding: 10px;
+    margin-right: 0px;
+    margin-top: 10px;
+
+}
+
+#but {
+    padding-inline: 50px;
+    margin-top: 10px;
+}
+
+#but1 {
+    padding-inline: 15px;
+}
+
+#but2 {
+    padding-inline: 15px;
+}
+
+#but3 {
+    padding-inline: 15px;
+}
+
+#but4 {
+    padding-inline: 15px;
+}
+
+.butt {
+
+    justify-content: space-around;
+    display: flex;
+    padding-top: 10px;
+
+}
+.all {
+    border: 3px solid ;
+    border-color: rgb(46, 5, 58);
+    
+}
